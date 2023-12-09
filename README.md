@@ -1,4 +1,4 @@
-![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Arnab-Gupta11/Arnab-Gupta11/main/images/banner.gif)
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Arnab-Gupta11/Arnab-Gupta11/main/images/banner-gif.gif)
 
 #### 📈 Current States
 
