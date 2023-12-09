@@ -1,5 +1,9 @@
 ![Arnab Gupta banner](https://raw.githubusercontent.com/Arnab-Gupta11/Arnab-Gupta11/main/images/banner-gif.gif)
 
+### Hey 👋 What's up?
+
+My name is Arnab Gupta. Currently immersed in studies while exploring the enchanting world of frontend development. Passionate about languages like React and Tailwind. Striving for a future where I contribute meaningfully to the ever-evolving landscape of web technologies. 🚀✨
+
 #### 📈 Current States
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arnab-Gupta11&theme=transparent)](https://git.io/streak-stats)
@@ -23,5 +27,7 @@
 #### 📑 Technology that I know
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,c,cpp,postman&perline=6)](https://skillicons.dev)
+
+#### 📈 My Github States
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arnab-Gupta11&show_icons=true&theme=tokyonight&locale=en" alt="Arnab-Gupta11" /></p>
