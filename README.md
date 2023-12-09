@@ -1,4 +1,8 @@
-### Hi there 👋
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Arnab-Gupta11/Arnab-Gupta11/main/images/banner.gif)
+
+#### 📈 Current States
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arnab-Gupta11&theme=transparent)](https://git.io/streak-stats)
 
 <!--
 **Arnab-Gupta11/Arnab-Gupta11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
