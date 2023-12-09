@@ -2,7 +2,7 @@
 
 ### Hey 👋 What's up?
 
-My name is Arnab Gupta. Currently immersed in studies while exploring the enchanting world of frontend development. Passionate about languages like React and Tailwind. Striving for a future where I contribute meaningfully to the ever-evolving landscape of web technologies. 🚀✨
+My name is Arnab Gupta. Currently immersed in studies while exploring the enchanting world of frontend development. Passionate about languages like React. Striving for a future where I contribute meaningfully to the ever-evolving landscape of web technologies. 🚀✨
 
 #### 📈 Current States
 
