@@ -1,4 +1,4 @@
-![Arnab Gupta banner](https://raw.githubusercontent.com/Arnab-Gupta11/Arnab-Gupta11/main/images/banner-gif.gif)
+![Arnab Gupta banner](https://github.com/Arnab-Gupta11/Arnab-Gupta11/blob/main/images/Arnab%20Gupta.gif)
 
 ### Hey 👋 What's up?
 
