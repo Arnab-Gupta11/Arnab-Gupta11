@@ -7,6 +7,7 @@ My name is Arnab Gupta. Currently immersed in studies while exploring the enchan
 #### 📈 Current States
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arnab-Gupta11&theme=transparent)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats-theta-neon.vercel.app?user=Arnab-Gupta11&theme=git-dark&fire=DDFE10&ring=EB9789&currStreakLabel=FFFF06&stroke=11EB27&background=45%2C000000%2C500000" width="48%">
 
 #### 📑 Reach me out
 
